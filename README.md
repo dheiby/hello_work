@@ -1,2 +1,2 @@
-# hello_word
+# hello
 nuevo repositorio de prueba 
